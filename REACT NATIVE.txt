@@ -1,0 +1,23 @@
+react-native init pos 
+
+adb devices
+
+react-native run-android
+
+react-navigation
+
+#9AA3AA
+
+#43AB4A
+=======================================
+
+const App: () => React$Node = () => {
+  return (
+    <>
+      <View>
+      <StatusBar backgroundColor="green"/>
+      <Text> First App </Text>
+      </View>
+    </>
+  );
+};
