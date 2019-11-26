@@ -37,6 +37,11 @@ Pixos is an application in the form of a website and a mobile application for pr
  4. Open in your code editor (vscode, atom or other)
  5. npm Install & react-native run-android
 
+
+## Download APK
+<img width="15" height="15" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/google-drive-512.png"> You can Download the APK [PIXOS APK](http://bit.ly/APK-Pixos)
+
+
 ## Build with React Native & Redux
 
  <img width="390" height="190" src="https://miro.medium.com/max/966/1*jYy3Hc1qmQL9gpYF5rI3Sg.png">
@@ -47,5 +52,5 @@ Pixos is an application in the form of a website and a mobile application for pr
 </p>
 
 <p align="center">
-<img width="400" height="192" src="https://i.ibb.co/5syF0PC/Screenshot-20191125-205650-Pos-React.jpg">    <img width="400" height="192" src="https://i.ibb.co/WGym7Wr/Screenshot-20191125-205601-Pos-React.jpg">    <img width="400" height="192" src="https://i.ibb.co/9hYNHQ1/Screenshot-20191125-205556-Pos-React.jpg">
+<img width="250" height="527" src="https://i.ibb.co/5syF0PC/Screenshot-20191125-205650-Pos-React.jpg">    <img width="250" height="527" src="https://i.ibb.co/WGym7Wr/Screenshot-20191125-205601-Pos-React.jpg">    <img width="250" height="527" src="https://i.ibb.co/9hYNHQ1/Screenshot-20191125-205556-Pos-React.jpg">
 </p>
