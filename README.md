@@ -13,7 +13,7 @@
 
 Pixos is an application in the form of a website and a mobile application for product management, category and has a cashier system (point of sale), this application is made using React Js and React Native. there is only a mobile application model if you interest website model you can visit this link [Web Pixos](https://github.com/Derida23/Easy-PointOfSale-ReactHook-Redux)
 
-## Features
+## Features 
 <b> Product Management </b>
  - Create data table 
  - View data product
