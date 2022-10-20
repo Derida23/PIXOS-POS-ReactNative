@@ -17,7 +17,7 @@
     "react-native": "0.61.3",
     "react-native-elements": "^1.2.7",
     "react-native-gesture-handler": "^1.5.0",
-    "react-native-reanimated": "^1.4.0",
+    "react-native-reanimated": "^2.10.0",
     "react-native-screens": "^1.0.0-alpha.23",
     "react-native-splash-screen": "^3.2.0",
     "react-native-touchable-scale": "^2.1.0",
